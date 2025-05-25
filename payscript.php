@@ -37,7 +37,7 @@ if (isset($_GET['busId']) && isset($_GET['busname']) && isset($_GET['pickup']) &
     $seat = $_GET['seat'];
     $date = $_GET['date'];
 }
-$api_key = "rzp_test_wv2WIo4cgxzHw3"; // Replace with your actual Razorpay API key
+$api_key = "**********************"; // Replace with your actual Razorpay API key
 
 ?>
 
